@@ -1,0 +1,71 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering"
+    ],
+    [
+      "Engineering",
+      "Chemical Engineering",
+      "Transport Processes"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Thermodynamics"
+    ],
+    [
+      "Engineering",
+      "Ocean Engineering"
+    ],
+    [
+      "Energy",
+      "Transportation"
+    ]
+  ],
+  "legacy_uid": "6f14734c-cbbf-ae28-b712-04544b8cdb9f",
+  "instructors": {
+    "content": [
+      "8a3ef79b-1c19-98cd-9cfb-516ce090b8ee",
+      "fe578240-c5f9-a069-7bc9-ba4b41e3a804"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ef5b0194-84bd-5b5f-f23d-364a13aaa146",
+    "website": "2-611-marine-power-and-propulsion-fall-2006"
+  },
+  "course_title": "Marine Power and Propulsion",
+  "course_description": "This course discusses the selection and evaluation of commercial and naval ship power and propulsion systems. It will cover the analysis of propulsors, prime mover thermodynamic cycles, propeller-engine matching, propeller selection, waterjet analysis, and reviews alternative propulsors. The course also investigates thermodynamic analyses of Rankine, Brayton, Diesel, and Combined cycles, reduction gears and integrated electric drive. Battery operated vehicles and fuel cells are also discussed. The term project requires analysis of alternatives in propulsion plant design for given physical, performance, and economic constraints. Graduate students complete different assignments and exams.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "2.612",
+  "primary_course_number": "2.611",
+  "course_image_thumbnail": {
+    "content": "4ae9f1d4-b934-5128-e065-86a22b862590",
+    "website": "2-611-marine-power-and-propulsion-fall-2006"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Projects",
+    "Programming Assignments",
+    "Design Assignments"
+  ],
+  "site_uid": "cd87761b-d307-4638-9319-fc6f3c447b9e",
+  "site_short_id": "2.611-fall-2006",
+  "site_url_path": "courses/2-611-marine-power-and-propulsion-fall-2006",
+  "title": "Course Metadata"
+}
