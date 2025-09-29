@@ -4,6 +4,8 @@ description: Lecture notes on regeneration Brayton cycle - irreversible.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/a11f4477fb29b02e431a21ca283e81f3_19brayton_irrev.pdf
 file_size: 196046
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

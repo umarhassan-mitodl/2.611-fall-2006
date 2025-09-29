@@ -4,6 +4,8 @@ description: This section provides the course description and information about 
   course objective, textbooks, topics covered, professional component contributions,
   relationship to program learning outcome, grading policy, and a calendar of lecture
   topics and key dates.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

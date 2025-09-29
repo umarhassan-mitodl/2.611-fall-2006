@@ -4,6 +4,8 @@ description: Lecture handout.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/6e05bb5e9612760ca8d1a9746cbf9a95_03prop_note_book.pdf
 file_size: 959659
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

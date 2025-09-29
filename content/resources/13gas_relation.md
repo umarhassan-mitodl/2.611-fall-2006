@@ -4,6 +4,8 @@ description: Lecture notes on relationships for gases.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/1a7830d3da0d8e8197a8d9817b042fca_13gas_relation.pdf
 file_size: 174166
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

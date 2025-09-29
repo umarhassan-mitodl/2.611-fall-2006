@@ -4,6 +4,8 @@ description: Lecture notes on air independent propulsion.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/d5e2c934ef60a3e4a24adecf342bcebc_26aip.pdf
 file_size: 168188
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

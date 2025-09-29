@@ -4,6 +4,8 @@ description: Lecture notes on the open Brayton cycle.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/f97574672426cc3da9dfc9556523ba3c_19open_cycle.pdf
 file_size: 154716
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

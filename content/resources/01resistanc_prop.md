@@ -5,6 +5,8 @@ description: Lecture notes on hull resistance, propulsion, hull efficiency, and 
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/c84dec9556d65b3a0cb8c6c99b464a4d_01resistanc_prop.pdf
 file_size: 161279
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

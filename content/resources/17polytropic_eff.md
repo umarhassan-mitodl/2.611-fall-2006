@@ -4,6 +4,8 @@ description: Lecture notes on polytropic efficiency.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/866bb6f3166d327d21270452b44b828a_17polytropic_eff.pdf
 file_size: 182942
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

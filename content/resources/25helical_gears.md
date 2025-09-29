@@ -4,6 +4,8 @@ description: Lecture notes on helical gears.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/e79766fcd52d43f802148852326d5d8c_25helical_gears.pdf
 file_size: 240411
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

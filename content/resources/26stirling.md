@@ -4,6 +4,8 @@ description: Lecture video showing animation of a stirling engine.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/aac1729b9b17feeb93b9935e1a801e71_26stirling.avi
 file_size: 46300
 file_type: video/x-msvideo
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

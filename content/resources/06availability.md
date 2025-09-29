@@ -4,6 +4,8 @@ description: Lecture notes on availability.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/2aa5e219493048f77ad052b4b58ed901_06availability.pdf
 file_size: 171297
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

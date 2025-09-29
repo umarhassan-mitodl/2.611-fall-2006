@@ -4,6 +4,8 @@ description: Problem set on basic thermodynamic cycles.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/024390cef74687197c39ca03781980d2_ps4.pdf
 file_size: 18803
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: Lecture notes on reliability and availability.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/8fd4b50ef794af75294c44aa555196c3_23reliability.pdf
 file_size: 101253
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

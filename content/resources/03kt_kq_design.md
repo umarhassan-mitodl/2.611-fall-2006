@@ -4,6 +4,8 @@ description: Lecture notes on design using Kt (Kq) curves.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/b921c150102f7aaad1edb11b826e119d_03kt_kq_design.pdf
 file_size: 201137
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
