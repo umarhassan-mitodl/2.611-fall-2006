@@ -4,8 +4,6 @@ description: Problem set solutions.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/749d6c1139a6e355c9e91c40ec079dd1_ps4_soln.pdf
 file_size: 73538
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

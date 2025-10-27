@@ -4,8 +4,6 @@ description: Lecture notes with a summary of thermo.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/e4c4c636ccaff892c28b3f6e0f07e208_05thermo_summ.pdf
 file_size: 178542
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

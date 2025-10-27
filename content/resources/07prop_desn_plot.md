@@ -4,8 +4,6 @@ description: Lecture handout with an example of a propeller design plot.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/d541e4e21773d8a220396c6e752ccad5_07prop_desn_plot.pdf
 file_size: 106583
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

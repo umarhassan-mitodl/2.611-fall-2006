@@ -4,8 +4,6 @@ description: Lecture notes on supplement for repairable system reliability.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/8f4869b13c944c3d69b5bd12346e54c4_23working_repair.pdf
 file_size: 142597
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

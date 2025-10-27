@@ -4,8 +4,6 @@ description: Lecture notes on creep.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/95b4941083d3aee48556bbb112012724_19creep.pdf
 file_size: 119028
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

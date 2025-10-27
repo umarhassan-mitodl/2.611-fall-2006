@@ -4,8 +4,6 @@ description: Lecture notes on the First Law.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/81d9f26805d769136b097b2cb3df9376_05first_law.pdf
 file_size: 192563
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

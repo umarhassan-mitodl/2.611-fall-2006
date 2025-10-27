@@ -4,8 +4,6 @@ description: This resource contains the solutions to Problem Set 2.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/5891d1747385dd92617e00450d819748_ps2_soln.xmcd
 file_size: 250138
 file_type: text/xml
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

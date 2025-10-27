@@ -4,8 +4,6 @@ description: Guidelines and instructions for the Frigate Propulsion Plant Design
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/fea69593cfa8ae38fec5fdb949aaa172_part3.pdf
 file_size: 14152
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

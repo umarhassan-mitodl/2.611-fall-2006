@@ -4,8 +4,6 @@ description: Lecture notes on the Brayton cycle.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/e3a6dd1e493d6209b6537b55c5ea84a6_17brayton_cycle.pdf
 file_size: 326282
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

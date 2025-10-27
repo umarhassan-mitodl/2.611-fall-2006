@@ -4,8 +4,6 @@ description: Lecture notes on the Rankine cycle.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/b9ee45dc7ca8c75b263571bc826e6ae4_09rankine.pdf
 file_size: 161730
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

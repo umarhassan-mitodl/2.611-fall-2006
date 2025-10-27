@@ -4,8 +4,6 @@ description: Lecture notes on the practical Rankine cycle.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/ba316680a34a95ffa89a861358920360_11rankine_pract.pdf
 file_size: 193350
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

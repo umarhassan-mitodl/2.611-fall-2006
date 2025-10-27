@@ -4,8 +4,6 @@ description: This resource is a supporting file for problem set 3.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/bdb5ffa54567c2521aedbedafbf8230f_vlm.fig
 file_size: 6002
 file_type: application/octet-stream
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

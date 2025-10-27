@@ -5,8 +5,6 @@ description: Guidelines and instructions for the second phase of the Frigate Pro
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/5bfb2dc5d9cfbb31ea4d7995e6ac7bc2_part2.pdf
 file_size: 70378
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

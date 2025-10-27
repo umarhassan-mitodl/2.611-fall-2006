@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides full descriptions for each part of the final project,
   a three-part frigate propulsion plant design project.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

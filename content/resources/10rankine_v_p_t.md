@@ -4,8 +4,6 @@ description: Lecture notes on the Rankine cycle at various steam pressures and t
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/1b41f4c4cb6efe3cd4b62509f4ef2778_10rankine_v_p_t.pdf
 file_size: 149657
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

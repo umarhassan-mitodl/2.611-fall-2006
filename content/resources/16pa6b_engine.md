@@ -4,8 +4,6 @@ description: ''
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/ef9780ba832dd6c46e5a8d2e58fb30ab_16pa6B_engine.pdf
 file_size: 42262
 file_type: application/octet-stream
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

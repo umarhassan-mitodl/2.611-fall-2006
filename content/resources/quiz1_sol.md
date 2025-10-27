@@ -4,8 +4,6 @@ description: This resource contains solutions to a quiz.
 file: /courses/2-611-marine-power-and-propulsion-fall-2006/5e1257d9dd624d26c4a32285e871400c_quiz1_sol.pdf
 file_size: 133072
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
